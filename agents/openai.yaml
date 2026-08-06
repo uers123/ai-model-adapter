@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI Model Adapter"
+  short_description: "Plan and safely adapt open-source AI models"
+  default_prompt: "Use $ai-model-adapter to plan a measurable, authorized model adaptation campaign."
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,13 @@
+campaign_id: replace-me
+model_id: replace-me
+variant_id: replace-me
+goal: replace-me
+task_type: multimodal
+input_modalities: []
+output_modalities: []
+acceptance:
+  targets: {}
+  human_review_required: true
+status: awaiting_authorization
+authorization: null
+
