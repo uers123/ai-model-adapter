@@ -27,6 +27,8 @@ Copy-Item -Recurse "ai-model-adapter" "$env:CODEX_HOME\skills\ai-model-adapter"
 | `AI_MODEL_ADAPTER_TASKS` | `D:\github-neirong\AI模型特调任务` | 训练任务工作区 |
 | `AI_MODEL_ADAPTER_CACHE` | `D:\github-neirong\AI模型基础资源` | 只读基础资源缓存 |
 
+> 注意：以上默认路径为作者本机目录，请务必通过环境变量覆盖为你自己的实际路径。
+
 首版随附 NExT-GPT 模型档案（Chapter 8 教程 + 官方当前版本双轨），其他模型按模板扩展。
 
 ## 命令
