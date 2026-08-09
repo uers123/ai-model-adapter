@@ -14,7 +14,7 @@ Copy-Item -Recurse "ai-model-adapter" "$env:CODEX_HOME\skills\ai-model-adapter"
 或使用 Codex 的 skill-installer：
 
 ```text
-/install-skill Lordog/ai-model-adapter
+/install-skill uers123/ai-model-adapter
 ```
 
 ## 数据库
